@@ -1,20 +1,12 @@
-**Hello,**
-I'm **Nicholus oburu.**
-Astudent at **IYF college.**.
-I'm studying **programming.**
-I’m currently working on ***a business  marketing website.***
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nicholus Oburu
+======================================================================================================================================
 
- -I’m currently using technologies like;
-   **★HTML5**
-   **★CSS3**
-   **★JavaScript**
-   **★React**
-   **★Next.Js**
-   **★TailwindCss**
-   **★Node.Js**
-   **★Express.Js**
-   **★MongoDB**
-   **★Rest APIs**.
-  
--Reach me through;
-<nicholusoburu@gmail.com>
+Web developer and designer
+--------------------------
+
+Am a student at International Youth Felloship. Am learning programming.
+
+*   🌍  I'm based in Kenya
+*   ✉️  You can contact me at [nicholusoburu@gmail.com](mailto:nicholusoburu@gmail.com)
+*   🧠  I'm learning HTML, CSS3, JavaScript, React e.t.c
+*   🤝  I'm open to collaborating on Projects
